@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Goodbye, world!!!!");
         System.out.println("i am return!");
         System.out.println("alex return ahahahaha!");
+        System.out.println("please, go away!!!!");
     }
 
 }
