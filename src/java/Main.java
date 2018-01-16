@@ -9,6 +9,7 @@ public class Main {
         System.out.println("waiting for pull request");
         System.out.println("many-first");
         System.out.println("many-second");
+        System.out.println("many-third");
     }
 
 }
